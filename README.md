@@ -1,14 +1,4 @@
-# สวัสดีครับ/ค่ะ, ผม/ฉันชื่อ [ชื่อของคุณ] 👋
-
-**[ตำแหน่งงาน เช่น Full-Stack Developer / Data Analyst / Mobile Engineer]** ที่หลงใหลในการพัฒนาซอฟต์แวร์และการแก้ปัญหาที่ซับซ้อนด้วยโค้ด
-
-- 🔭 ปัจจุบันกำลังพัฒนา: **[ชื่อโปรเจกต์หรืองานที่กำลังทำอยู่]**
-- 🌱 กำลังเรียนรู้เพิ่มเติมเกี่ยวกับ: **[เทคโนโลยีใหม่ที่กำลังศึกษา เช่น Rust, AI Agents, Cloud Architecture]**
-- 👯 เปิดรับโอกาสในการร่วมงานด้าน: **[หัวข้อหรือโปรเจกต์ที่สนใจ]**
-- 💬 สอบถามหรือแลกเปลี่ยนความรู้ได้เกี่ยวกับ: **[ทักษะหลักของคุณ เช่น React, Python, System Design]**
-- 📫 ช่องทางการติดต่อ: **[อีเมลของคุณ]** หรือเชื่อมต่อผ่าน **[LinkedIn / Portfolio URL]**
-
----
+# สวัสดีค่ะ, ฉันชื่อ ณัฐฐิญา โพธิ์ชัย 👋
 
 ### 🛠️ Tech Stack & Tools
 
@@ -29,16 +19,12 @@
 
 ---
 
-### 🚀 Featured Projects
 
-| โปรเจกต์ | รายละเอียด | เทคโนโลยีหลัก |
-| :--- | :--- | :--- |
-| **[ชื่อโปรเจกต์ที่ 1](ลิงก์-Repo)** | อธิบายสั้นๆ ว่าโปรเจกต์นี้ทำอะไรและแก้ปัญหาอะไร | `React`, `Node.js`, `PostgreSQL` |
-| **[ชื่อโปรเจกต์ที่ 2](ลิงก์-Repo)** | อธิบายสั้นๆ ว่าโปรเจกต์นี้ทำอะไรและแก้ปัญหาอะไร | `Python`, `FastAPI`, `Docker` |
-
----
 
 ### 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[ใส่-USERNAME-ของคุณ]&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[ใส่-USERNAME-ของคุณ]&layout=compact&theme=tokyonight)
+
+## ช่องทางติดต่อ
+natthiya.pho@ku.th
